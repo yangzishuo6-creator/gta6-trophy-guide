@@ -1,25 +1,62 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#202033">
+  <title>Vice Trophy Atlas · GTA VI trophy tracker</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.js"></script>
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
-</header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
-<script type="module" src="app.js"></script>
+  <header class="topbar">
+    <div class="shell masthead">
+      <a class="brand" href="#tracker"><span class="compass" aria-hidden="true">✦</span> Vice Trophy Atlas</a>
+      <nav aria-label="Main navigation">
+        <a id="nav-tracker" href="#tracker">Tracker</a>
+        <a id="nav-roadmap" href="#roadmap">Roadmap</a>
+      </nav>
+      <label class="privacy"><input type="checkbox" id="spoilers" role="switch" checked> Hide story spoilers</label>
+    </div>
+  </header>
+  <main class="shell">
+    <section class="overview" aria-labelledby="main-title">
+      <div>
+        <p class="platform">GRAND THEFT AUTO VI / PLAYSTATION 5</p>
+        <h1 id="main-title">Vice Trophy Atlas</h1>
+        <p class="tagline">Your offline trophy guide to Leonida.</p>
+      </div>
+      <div class="summary">
+        <div class="meter-label"><strong id="earned-count">0 / 55</strong><span>TROPHIES EARNED</span></div>
+        <progress id="progress" value="0" max="55" aria-label="Trophies earned"></progress>
+        <div id="grades" class="grades" aria-label="Progress by grade"></div>
+      </div>
+    </section>
+    <div class="notice" id="notice" role="status"></div>
+    <section id="tracker-view" aria-labelledby="tracker-heading">
+      <div class="heading">
+        <h2 id="tracker-heading">Trophy tracker</h2>
+        <div class="actions">
+          <button id="export" type="button">↓ Export JSON</button>
+          <button id="import-button" type="button">↑ Import JSON</button>
+          <input type="file" id="import" accept=".json,application/json" hidden>
+        </div>
+      </div>
+      <div class="toolbar">
+        <div id="filters" class="filters" aria-label="Filter by trophy kind"></div>
+        <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Find a trophy" aria-label="Find a trophy"></label>
+      </div>
+      <div class="workspace">
+        <section class="list-panel" aria-label="Trophy checklist">
+          <div class="list-head"><span id="result-count" aria-live="polite">Loading trophies…</span><label><input id="remaining" type="checkbox"> Unearned only</label></div>
+          <ul id="rows" class="rows"></ul>
+        </section>
+        <aside id="guide" class="guide" aria-label="Selected trophy guide"></aside>
+      </div>
+    </section>
+    <section id="roadmap-view" aria-labelledby="roadmap-heading" hidden></section>
+    <footer>VICE TROPHY ATLAS <span>·</span> PS5 trophy list snapshot · 18 Nov 2026</footer>
+  </main>
 </body>
 </html>
