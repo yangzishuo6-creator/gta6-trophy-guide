@@ -8,774 +8,385 @@
    "name": "Vice Got a Price!",
    "description": "Congratulations! You're a Leonida Legend.",
    "grade": "platinum",
-   "guide": "Check the console trophy list for any remaining bronze, silver or gold before marking platinum. The description is a congratulations message; the target here is the other 54 trophies.",
-   "kind": "completion",
-   "missable": "unknown",
-   "stage": "finish",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Earn the other 54 trophies."
   },
   {
    "id": 2,
    "name": "Just Like Paradise",
    "description": "Complete Gone Fishing.",
    "grade": "bronze",
-   "guide": "Look for Gone Fishing in your story objectives. Play through the mission’s finish and confirm the trophy before moving on. Its chapter placement and replay options are pending.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish the opening mission, Gone Fishing."
   },
   {
    "id": 3,
    "name": "Paradise Lost",
    "description": "Complete Chapter 1.",
    "grade": "bronze",
-   "guide": "Use the Chapter 1 completion trophy as your first numbered story checkpoint. Take note of the chapter transition if the unlock does not appear immediately.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish Chapter 1."
   },
   {
    "id": 4,
    "name": "T**s Ass Drug Money",
    "description": "Complete Chapter 2.",
    "grade": "bronze",
-   "guide": "Track this as the second chapter milestone. Judge progress by the chapter wrap-up, since the description does not name a specific mission within it.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish Chapter 2."
   },
   {
    "id": 5,
    "name": "Vice City, Baby!",
    "description": "Complete Chapter 3.",
    "grade": "bronze",
-   "guide": "Mark Chapter 3 off when you reach its ending. Check the individual named mission trophies separately, since the list does not place them by chapter.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish Chapter 3."
   },
   {
    "id": 6,
    "name": "Top Of The World, Ma",
    "description": "Complete Chapter 4.",
    "grade": "bronze",
-   "guide": "Log the end of Chapter 4 separately from the finale. The list gives each its own trophy and does not explain how close together they occur.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish Chapter 4."
   },
   {
    "id": 7,
    "name": "You Gotta Know When to Get Off",
    "description": "Complete the final mission.",
    "grade": "gold",
-   "guide": "Keep this gold separate from the numbered chapter checks. Confirm it after the mission the game treats as its finale. The trophy list leaves that mission unnamed.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish the final mission (gold)."
   },
   {
    "id": 8,
    "name": "Trust",
    "description": "Complete Breakfast Run.",
    "grade": "bronze",
-   "guide": "Watch for Breakfast Run by its exact title in the story log. Complete the mission before checking the trophy. The list gives no rank or optional objective.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish the mission Breakfast Run."
   },
   {
    "id": 9,
    "name": "Break the Bank",
    "description": "Complete The Cartel Heist.",
    "grade": "bronze",
-   "guide": "Match the mission title to The Cartel Heist in your story log. Check for the unlock after the mission ends. The chapter and replay availability are pending.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish the mission The Cartel Heist."
   },
   {
    "id": 10,
    "name": "Family Matters",
    "description": "Complete Child's Play.",
    "grade": "bronze",
-   "guide": "Look for Child's Play in your mission list. Use the completed mission as your checkpoint. The trophy text gives no ending choice or performance requirement.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish the mission Child's Play."
   },
   {
    "id": 11,
    "name": "DWNFALL",
    "description": "Complete Headliners.",
    "grade": "bronze",
-   "guide": "Use Headliners as the lookup term in your mission log. Check this trophy after finishing the mission, even if you have already checked the surrounding chapter.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish the mission Headliners."
   },
   {
    "id": 12,
    "name": "Hi-Jacked",
    "description": "Complete VCIA Takedown.",
    "grade": "bronze",
-   "guide": "Look specifically for the mission VCIA Takedown. The separate airport-departure trophy has its own condition and can be tracked independently.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish the mission VCIA Takedown."
   },
   {
    "id": 13,
    "name": "Snow Storm",
    "description": "Complete Operation Savage Glory.",
    "grade": "bronze",
-   "guide": "Look for the full title Operation Savage Glory. Confirm the mission has registered as complete. The list leaves its position in the campaign open.",
-   "kind": "story",
-   "missable": "unknown",
-   "stage": "story",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish the mission Operation Savage Glory."
   },
   {
    "id": 14,
    "name": "A Long Road",
    "description": "Attain 100% Completion.",
    "grade": "gold",
-   "guide": "Compare against the game’s completion percentage and use any outstanding categories it exposes to guide cleanup. The trophy list gives the 100% target but leaves the checklist behind it open.",
-   "kind": "completion",
-   "missable": "unknown",
-   "stage": "finish",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Reach 100% completion (gold)."
   },
   {
    "id": 15,
    "name": "Cunning Stunts",
    "description": "Complete 250 Stunts.",
    "grade": "silver",
-   "guide": "Keep a running count of credited stunt completions toward 250. Check what the game credits before relying on repeats. The qualifying stunt types and repeat rules are pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Pull off 250 stunts (silver)."
   },
   {
    "id": 16,
    "name": "Master of None",
    "description": "Try each type of activity once.",
    "grade": "bronze",
-   "guide": "Keep one check per activity category as you sample them. Track categories rather than individual venues. The list does not enumerate those categories.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Try all 9 activity types once."
   },
   {
    "id": 17,
    "name": "The Shootist",
    "description": "Earn a gold medal in all Shooting Range challenges.",
    "grade": "silver",
-   "guide": "Audit results challenge by challenge and revisit anything below gold. A single lower medal leaves the set incomplete. The source description does not specify scores or range locations.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Gold all 42 Shooting Range challenges (silver)."
   },
   {
    "id": 18,
    "name": "Top Fun",
    "description": "Win a Top Fun Drone Race at every location.",
    "grade": "bronze",
-   "guide": "Keep one win per Top Fun location. Once a venue has credited a win, move to a different venue. The full venue checklist is pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Win a Top Fun drone race at all 14 locations."
   },
   {
    "id": 19,
    "name": "Earn Cash, Not Kudos",
    "description": "Win 20 different races.",
    "grade": "bronze",
-   "guide": "Record the event name after each win so you can avoid counting a repeat. Build a list of 20 separate winning results.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Win 20 different races."
   },
   {
    "id": 20,
    "name": "Baited My Tackle",
    "description": "Beat Cal in a fishing challenge.",
    "grade": "bronze",
-   "guide": "Look for Cal’s fishing challenge by name and check the result against Cal. Ordinary fishing sessions have no stated bearing on this unlock. The event location is pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Beat Cal in a fishing challenge."
   },
   {
    "id": 21,
    "name": "Stick Fiddler",
    "description": "Complete an arcade game.",
    "grade": "bronze",
-   "guide": "Choose an arcade title and play through a completed run. Check whether the game registers completion at the result screen. The list leaves the qualifying games and scores open.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish one arcade game."
   },
   {
    "id": 22,
    "name": "Road to Rehabilitation",
    "description": "Complete the final mission for Andy.",
    "grade": "bronze",
-   "guide": "Keep Andy’s missions under one checklist entry and confirm you have reached his last assignment. Starting the strand alone is insufficient. Its opening point is pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish Andy's last mission."
   },
   {
    "id": 23,
    "name": "This Was No Boat Accident",
    "description": "Complete the final mission for Kenton.",
    "grade": "bronze",
-   "guide": "Follow Kenton’s assignments to their endpoint. If you are tallying stranger strands at the same time, verify any credit in-game. The trophy list doesn’t say which strands overlap.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish Kenton's last mission."
   },
   {
    "id": 24,
    "name": "The Lone Rider",
    "description": "Complete the final mission for Billy.",
    "grade": "bronze",
-   "guide": "Check Billy’s quest log for remaining assignments before marking his final mission. The list gives the character to track but leaves the finale’s title and availability open.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish Billy's last mission."
   },
   {
    "id": 25,
    "name": "Strangers & Freaks",
    "description": "Complete 8 mission strands for strangers across the state of Leonida.",
    "grade": "silver",
-   "guide": "Count one entry for each fully wrapped-up stranger storyline. Eight individual missions could belong to fewer than eight strands. The list leaves the eligible strands unnamed.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish 8 stranger strands (silver)."
   },
   {
    "id": 26,
    "name": "Supply & Demand",
    "description": "Complete the final mission for Randy.",
    "grade": "bronze",
-   "guide": "Use Randy as the anchor when reviewing side missions. Tick the trophy once his closing mission is complete. The list leaves the first meeting and mission count open.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish Randy's last mission."
   },
   {
    "id": 27,
    "name": "Spin On This!",
    "description": "Complete the final mission for Tyrone.",
    "grade": "bronze",
-   "guide": "Keep Tyrone’s strand on your side-mission list until his closing assignment registers. The exact mission name and access window are pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish Tyrone's last mission."
   },
   {
    "id": 28,
    "name": "Positive Mental Attitude",
    "description": "Meditate at every spot across Leonida.",
    "grade": "bronze",
-   "guide": "Keep a checklist of meditation spots as you discover them across Leonida. Because the objective calls for every spot, check new locations before repeating visits. Total and access windows are pending.",
-   "kind": "collectibles",
-   "missable": "verify",
-   "stage": "collectibles",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Meditate at all 18 spots."
   },
   {
    "id": 29,
    "name": "Fair Game",
    "description": "Hunt a unique animal for Bret.",
    "grade": "bronze",
-   "guide": "Tie the attempt to Bret’s objective and verify the animal is credited there. The list gives neither a species nor a hunting location.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Hunt the unique animal for Bret."
   },
   {
    "id": 30,
    "name": "Don't Touch My Deck",
    "description": "Complete 3 Collectible Card sets.",
    "grade": "silver",
-   "guide": "Group finds by set and close out missing cards in nearly complete sets first. Track three finished sets instead of three individual pickups. Card locations and set sizes are pending.",
-   "kind": "collectibles",
-   "missable": "unknown",
-   "stage": "collectibles",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Complete 3 collectible card sets (silver)."
   },
   {
    "id": 31,
    "name": "You WAiNKer!",
    "description": "WAiNK It at 100 locations.",
    "grade": "silver",
-   "guide": "Log distinct places where the game credits a WAiNK interaction. Aim for 100 locations and use the count to judge coverage. The activation method and map are pending.",
-   "kind": "collectibles",
-   "missable": "unknown",
-   "stage": "collectibles",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "WAiNK It at 100 locations (silver)."
   },
   {
    "id": 32,
    "name": "One Last Thing",
    "description": "Complete 50 Challenges.",
    "grade": "bronze",
-   "guide": "Track credited challenge completions toward 50. Keep this tally separate from your shooting medal audit until the game confirms whether they overlap.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Finish 50 challenges."
   },
   {
    "id": 33,
    "name": "Hot Together",
    "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
    "grade": "bronze",
-   "guide": "For this in-game pursuit, verify that your partner is present and the wanted meter has reached four stars before ending the chase. Check the trophy once the heat clears.",
-   "kind": "activities",
-   "missable": "verify",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Lose a 4-star wanted level with your partner."
   },
   {
    "id": 34,
    "name": "Retail Therapy",
    "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
    "grade": "bronze",
-   "guide": "Treat the three virtual shop robberies as one continuous attempt with your partner. If the wanted meter clears partway through, start the count over. Eligible shops are pending.",
-   "kind": "activities",
-   "missable": "verify",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
   },
   {
    "id": 35,
    "name": "Whip It Good",
    "description": "Discover 100 vehicles.",
    "grade": "bronze",
-   "guide": "Keep a list of credited vehicle discoveries so you can focus on unfamiliar models. The list gives a target of 100 but leaves the discovery interaction open.",
-   "kind": "collectibles",
-   "missable": "unknown",
-   "stage": "collectibles",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Discover 100 vehicles."
   },
   {
    "id": 36,
    "name": "Gunslinger",
    "description": "Take down 5 enemies in a single use of Combat Focus.",
    "grade": "bronze",
-   "guide": "Treat each Combat Focus activation as a fresh attempt. Check whether five takedowns registered before that activation ended. The list leaves the controls and qualifying targets open.",
-   "kind": "activities",
-   "missable": "verify",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Down 5 enemies in one Combat Focus."
   },
   {
    "id": 37,
    "name": "Catch Me If You Can",
    "description": "Make an unscheduled departure at VCIA.",
    "grade": "bronze",
-   "guide": "Use VCIA as the search area for the in-game event. Keep this separate from the VCIA Takedown mission. The exact meaning of an unscheduled departure is pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Leave VCIA in an unscheduled way."
   },
   {
    "id": 38,
    "name": "Challenging Tank",
    "description": "Kinda hot in these Rhinos.",
    "grade": "bronze",
-   "guide": "Use the Rhino reference to identify the likely in-game context, then wait for a verified trigger. The clue leaves the action, location and conditions open.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Deal with Rhinos (tanks)."
   },
   {
    "id": 39,
    "name": "Sneakthief",
    "description": "Rob a jewelry store without being detected.",
    "grade": "bronze",
-   "guide": "Use detection as the pass/fail check during the in-game jewelry-store objective. Treat a detected run as a failed trophy attempt. Eligible stores and detection rules are pending.",
-   "kind": "activities",
-   "missable": "verify",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Rob a jewelry store without being seen."
   },
   {
    "id": 40,
    "name": "Maximum Withdrawal",
    "description": "Rob 5 Bank Vaults and escape.",
    "grade": "silver",
-   "guide": "Track completed in-game vault jobs and count an attempt only once the escape is credited. Verify how the game handles repeats before counting the same vault twice.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Rob 5 bank vaults and escape (silver)."
   },
   {
    "id": 41,
    "name": "A Classic Blitz Play",
    "description": "Rob an Armored Truck and escape.",
    "grade": "bronze",
-   "guide": "Check for the unlock after the in-game escape is registered. Opening the truck alone covers only part of the stated objective. Event spawn details are pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Rob an armored truck and escape."
   },
   {
    "id": 42,
    "name": "The Goodtime State",
    "description": "Explore all of Leonida.",
    "grade": "bronze",
-   "guide": "Review any exploration indicators the game provides and make a note of outstanding areas. The list names Leonida as the scope. Region boundaries and total are pending.",
-   "kind": "collectibles",
-   "missable": "unknown",
-   "stage": "collectibles",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Explore all 52 areas of Leonida."
   },
   {
    "id": 43,
    "name": "Pest Control",
    "description": "Rob an Illegal Operation belonging to each gang.",
    "grade": "bronze",
-   "guide": "Track credited in-game jobs by gang. Two operations for one gang still leave the other gangs unaccounted for. The roster and qualifying operation types are pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Rob one illegal operation of each of the 9 gangs."
   },
   {
    "id": 44,
    "name": "In The Beginning…",
    "description": "Enjoy a cocktail with a view on Ocean Beach.",
    "grade": "bronze",
-   "guide": "Start with the named area, Ocean Beach, and look for an in-game cocktail interaction with a view. The specific venue and any timing requirements are pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Have a cocktail with a view on Ocean Beach."
   },
   {
    "id": 45,
    "name": "Capital Offense",
    "description": "Smash your way out of a vehicle showroom in classic style.",
    "grade": "bronze",
-   "guide": "Look for a vehicle showroom in-game and watch for trophy credit during the exit sequence. The phrase “classic style” leaves the required trigger open.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Smash out of a vehicle showroom in style."
   },
   {
    "id": 46,
    "name": "Let’s Go Bowling",
    "description": "Follow-through at the Kolt & Associates' bowling alley.",
    "grade": "bronze",
-   "guide": "Use Kolt & Associates to identify the bowling alley. The clue leaves the exact bowling input, score and unlock condition pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Play bowling at the Kolt & Associates alley."
   },
   {
    "id": 47,
    "name": "Personal Best",
    "description": "A partnership with mass appeal.",
    "grade": "bronze",
-   "guide": "The partnership clue gives you a theme to watch for while playing. The exact characters, event and trigger are pending. Keep the trophy unchecked until it registers.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "A partnership moment with mass appeal."
   },
   {
    "id": 48,
    "name": "Actions Speak Louder",
    "description": "Choices made (for better or worse).",
    "grade": "bronze",
-   "guide": "Watch for credited progress after in-game choices. The clue leaves both eligible decisions and the threshold open, so avoid planning around a specific number.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Make choices (PSN tracks a count to 500)."
   },
   {
    "id": 49,
    "name": "Bad Luck, I Guess",
    "description": "Second time's the charm.",
    "grade": "bronze",
-   "guide": "The wording suggests a retry may matter. The list leaves the event, failure condition and required follow-up open. Wait for an observed trigger before targeting a specific attempt.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Succeed on a second try."
   },
   {
    "id": 50,
    "name": "The Truth Is Out There",
    "description": "What the hell just happened?",
    "grade": "bronze",
-   "guide": "Keep this on your cleanup list while exploring. The clue gives no reliable event, location or action to target. A reproducible trigger is pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Witness something strange."
   },
   {
    "id": 51,
    "name": "Ten Pin",
    "description": "Bowl 'em over with a melee drive-by.",
    "grade": "bronze",
-   "guide": "Check for credit after an in-game melee drive-by knockdown. The description singles out melee. Eligible vehicles and input timing are pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Knock someone down with a melee drive-by."
   },
   {
    "id": 52,
    "name": "Dime on the Dollar",
    "description": "Earn $250,000 laundering Marked Bills through your contacts.",
    "grade": "bronze",
-   "guide": "Track the amount credited from Marked Bills through contacts toward $250,000. Keep the tally separate from your general cash balance. The contact roster is pending.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Launder $250,000 of marked bills."
   },
   {
    "id": 53,
    "name": "Treat Yo Self",
    "description": "Spend $100,000 across all shops.",
    "grade": "bronze",
-   "guide": "Treat $100,000 as a cumulative spend target and track credited purchases. The phrase “across all shops” leaves any shop coverage rule open.",
-   "kind": "activities",
-   "missable": "unknown",
-   "stage": "activities",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Spend $100,000 in shops."
   },
   {
    "id": 54,
    "name": "Little Boxes",
    "description": "Purchase all garage properties.",
    "grade": "bronze",
-   "guide": "Compare owned garages against any property list available in-game and target the gaps. The trophy text requires the full set. The property count and locations are pending.",
-   "kind": "collectibles",
-   "missable": "unknown",
-   "stage": "collectibles",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Buy all 8 garage properties."
   },
   {
    "id": 55,
    "name": "On the Spot",
    "description": "Register 10 vehicles to the Scooter Bros app.",
    "grade": "bronze",
-   "guide": "Check registrations inside Scooter Bros and tally ten credited vehicles. Discovery alone belongs to a separate trophy. App access and eligible vehicles are pending.",
-   "kind": "collectibles",
-   "missable": "unknown",
-   "stage": "collectibles",
-   "sources": [
-    "exophase",
-    "psnprofiles"
-   ]
+   "guide": "Register 10 vehicles in the Scooter Bros app."
   }
- ],
- "sources": {
-  "psnprofiles": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi",
-  "exophase": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
- }
+ ]
 }
