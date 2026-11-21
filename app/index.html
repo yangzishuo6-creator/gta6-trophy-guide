@@ -1,25 +1,55 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#122c2c">
+  <title>Vice Trophy Atlas</title>
+  <link rel="icon" href="atlas.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="app.js"></script>
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
-</header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
-<script type="module" src="app.js"></script>
+  <header class="masthead">
+    <div class="bar frame">
+      <a href="#tracker" class="brand"><span aria-hidden="true">✦</span> VICE TROPHY ATLAS</a>
+      <nav aria-label="Main navigation">
+        <a href="#tracker" id="tracker-tab">Tracker</a>
+        <a href="#roadmap" id="roadmap-tab">Platinum roadmap</a>
+      </nav>
+      <label class="shield"><input id="shield" type="checkbox" role="switch" checked> Hide story spoilers</label>
+    </div>
+    <div class="hero frame">
+      <div class="intro">
+        <p class="eyebrow">GRAND THEFT AUTO VI <span> / </span> PLAYSTATION 5</p>
+        <h1>Vice Trophy Atlas<span>.</span></h1>
+        <p>Track all 55 trophies and chart your route to platinum.</p>
+      </div>
+      <section class="dashboard" aria-label="Trophy progress">
+        <div class="dash-top"><strong id="stat">0 <small>/ 55</small></strong><span id="save-status" role="status">Progress saves on this device</span></div>
+        <progress id="progress" max="55" value="0" aria-label="Trophies earned"></progress>
+        <div id="medals" class="medals"></div>
+      </section>
+    </div>
+  </header>
+  <main class="frame">
+    <section id="tracker" aria-label="Trophy tracker">
+      <div class="section-head">
+        <h2>Trophy tracker</h2>
+        <div class="transfer"><button id="export" type="button">↓ Export JSON</button><button id="import" type="button">↑ Import JSON</button><input id="backup" type="file" accept=".json,application/json" hidden></div>
+      </div>
+      <div class="workbench">
+        <section class="list" aria-label="Trophy list">
+          <div id="filters" class="filters" aria-label="Trophy category"></div>
+          <div class="tools"><input id="search" type="search" placeholder="Search trophies or objectives" aria-label="Search trophies or objectives"><label><input id="unearned" type="checkbox"> Unearned only</label></div>
+          <p id="list-count" class="list-count" role="status">Loading trophies…</p>
+          <div id="rows"></div>
+        </section>
+        <aside id="detail" class="detail" aria-label="Selected trophy guide"></aside>
+      </div>
+    </section>
+    <section id="roadmap" aria-label="Platinum roadmap" hidden></section>
+    <noscript>Enable JavaScript to use the offline tracker.</noscript>
+  </main>
 </body>
 </html>

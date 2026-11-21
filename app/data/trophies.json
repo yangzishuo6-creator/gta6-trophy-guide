@@ -1,392 +1,61 @@
 {
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "trophies": [
+    {"id":1,"name":"Vice Got a Price!","description":"Congratulations! You're a Leonida Legend.","grade":"platinum","kind":"Milestones","guide":"Use the 54 non-platinum trophies as your checklist. Check the platinum separately when it appears in your PlayStation list."},
+    {"id":2,"name":"Just Like Paradise","description":"Complete Gone Fishing.","grade":"bronze","kind":"Story","guide":"Use Gone Fishing as your first named checkpoint. Check for the award after the mission ends. Cal's fishing challenge has its own trophy."},
+    {"id":3,"name":"Paradise Lost","description":"Complete Chapter 1.","grade":"bronze","kind":"Story","guide":"Check this off at the end of Chapter 1. Use the chapter transition as your cue to compare the in-game award with your tracker."},
+    {"id":4,"name":"T**s Ass Drug Money","description":"Complete Chapter 2.","grade":"bronze","kind":"Story","guide":"Use the Chapter 2 clear as your next story checkpoint. Keep named mission awards on their own checklist so you can spot any gaps."},
+    {"id":5,"name":"Vice City, Baby!","description":"Complete Chapter 3.","grade":"bronze","kind":"Story","guide":"At the Chapter 3 transition, check your PlayStation list for the chapter award. The title is a label for the chapter clear, so use the chapter number to track it."},
+    {"id":6,"name":"Top Of The World, Ma","description":"Complete Chapter 4.","grade":"bronze","kind":"Story","guide":"Check for this award when Chapter 4 ends. Keep the finale on your list as a separate story milestone with its own gold trophy."},
+    {"id":7,"name":"You Gotta Know When to Get Off","description":"Complete the final mission.","grade":"gold","kind":"Story","guide":"After clearing the story finale, verify the gold award and switch to the unearned list for cleanup. Check the separate 100% completion trophy as well."},
+    {"id":8,"name":"Trust","description":"Complete Breakfast Run.","grade":"bronze","kind":"Story","guide":"Match the mission title Breakfast Run as it comes up in the story and verify the award when it ends. The list gives no chapter placement for it."},
+    {"id":9,"name":"Break the Bank","description":"Complete The Cartel Heist.","grade":"bronze","kind":"Story","guide":"Track The Cartel Heist under story missions. Keep its award separate from Maximum Withdrawal, which tracks vault robberies with escapes."},
+    {"id":10,"name":"Family Matters","description":"Complete Child's Play.","grade":"bronze","kind":"Story","guide":"Check your trophy list when Child's Play ends. The description supplies the mission title as the way to identify the objective."},
+    {"id":11,"name":"DWNFALL","description":"Complete Headliners.","grade":"bronze","kind":"Story","guide":"Look for Headliners in your mission progress. Mark the trophy when the mission clears and the award appears on PlayStation."},
+    {"id":12,"name":"Hi-Jacked","description":"Complete VCIA Takedown.","grade":"bronze","kind":"Story","guide":"Use VCIA Takedown as the mission checkpoint. Track the separate VCIA departure objective independently, since it describes a different condition."},
+    {"id":13,"name":"Snow Storm","description":"Complete Operation Savage Glory.","grade":"bronze","kind":"Story","guide":"Use the full Operation Savage Glory mission title to identify this story award. Verify it after the mission clear before moving to your next checkpoint."},
+    {"id":14,"name":"A Long Road","description":"Attain 100% Completion.","grade":"gold","kind":"Milestones","count":100,"guide":"Check the game's completion percentage. Use it alongside this trophy tracker during cleanup, since the list gives no breakdown of what feeds that percentage."},
+    {"id":15,"name":"Cunning Stunts","description":"Complete 250 Stunts.","grade":"silver","kind":"Activities","count":250,"guide":"Chip away at stunt completions while exploring. Use credited completions for your tally and check your starting count before each cleanup session."},
+    {"id":16,"name":"Master of None","description":"Try each type of activity once.","grade":"bronze","kind":"Activities","count":9,"guide":"Make a list of activity types as you encounter them and try each one. Prioritize your first attempt at a new type over another run of a favorite."},
+    {"id":17,"name":"The Shootist","description":"Earn a gold medal in all Shooting Range challenges.","grade":"silver","kind":"Activities","count":42,"guide":"Make a medal checklist for the 42 range challenges. Clear the board once, then revisit every entry below gold. The last upgrade matters as much as your first gold."},
+    {"id":18,"name":"Top Fun","description":"Win a Top Fun Drone Race at every location.","grade":"bronze","kind":"Activities","count":14,"guide":"Keep one winning result per Top Fun location. When cleaning up the 14-location set, look for gaps by venue before replaying a race you've already won."},
+    {"id":19,"name":"Earn Cash, Not Kudos","description":"Win 20 different races.","grade":"bronze","kind":"Activities","count":20,"guide":"Record the race name after each win and keep only unique entries. Use that list to pick your next race until it contains 20 wins on different events."},
+    {"id":20,"name":"Baited My Tackle","description":"Beat Cal in a fishing challenge.","grade":"bronze","kind":"Activities","watch":true,"guide":"Take Cal's challenge when it is available and verify the winning result. The list specifies the opponent and leaves availability and rematches open."},
+    {"id":21,"name":"Stick Fiddler","description":"Complete an arcade game.","grade":"bronze","kind":"Activities","guide":"Choose one arcade game and play through its ending. Check the award on returning to regular play before spending time on another cabinet."},
+    {"id":22,"name":"Road to Rehabilitation","description":"Complete the final mission for Andy.","grade":"bronze","kind":"Activities","watch":true,"guide":"When Andy's missions become available, follow the chain to its last assignment. Use the trophy unlock to confirm that you've reached the end of the strand."},
+    {"id":23,"name":"This Was No Boat Accident","description":"Complete the final mission for Kenton.","grade":"bronze","kind":"Activities","watch":true,"guide":"Keep Kenton's thread open in your checklist until the endpoint. The description identifies the contact but offers no mission title or cutoff."},
+    {"id":24,"name":"The Lone Rider","description":"Complete the final mission for Billy.","grade":"bronze","kind":"Activities","watch":true,"guide":"Follow up whenever Billy offers another assignment. Verify the trophy after the final one and leave the chain unmarked while any assignment is outstanding."},
+    {"id":25,"name":"Strangers & Freaks","description":"Complete 8 mission strands for strangers across the state of Leonida.","grade":"silver","kind":"Activities","count":8,"guide":"Keep an eight-line list of stranger contacts and tick each line after its whole chain finishes. Use the contact name to avoid counting several missions as several strands."},
+    {"id":26,"name":"Supply & Demand","description":"Complete the final mission for Randy.","grade":"bronze","kind":"Activities","watch":true,"guide":"Prioritize Randy's follow-up missions when available. The award is your confirmation of the endpoint because the official entry identifies it only by the contact."},
+    {"id":27,"name":"Spin On This!","description":"Complete the final mission for Tyrone.","grade":"bronze","kind":"Activities","watch":true,"guide":"Follow Tyrone's assignments through their conclusion. Check your trophy list after each clear so you can identify which assignment closed the strand."},
+    {"id":28,"name":"Positive Mental Attitude","description":"Meditate at every spot across Leonida.","grade":"bronze","kind":"Collectibles","count":18,"guide":"Log a spot after meditating there. Track the 18 spots by distinct location and use your notes to avoid revisiting completed stops during cleanup."},
+    {"id":29,"name":"Fair Game","description":"Hunt a unique animal for Bret.","grade":"bronze","kind":"Activities","watch":true,"guide":"Use Bret's objective to identify the animal, and verify the award after completing that hunt. The trophy text leaves the species and location unspecified."},
+    {"id":30,"name":"Don't Touch My Deck","description":"Complete 3 Collectible Card sets.","grade":"silver","kind":"Collectibles","count":3,"guide":"Group your card checklist by set as soon as you start collecting. When a set is nearly full, focus your search on its missing cards. Progress is measured in three finished sets."},
+    {"id":31,"name":"You WAiNKer!","description":"WAiNK It at 100 locations.","grade":"silver","kind":"Collectibles","count":100,"guide":"Record each new location after doing the WAiNK It interaction. Track 100 distinct stops and use your notes to avoid duplicating a location during cleanup."},
+    {"id":32,"name":"One Last Thing","description":"Complete 50 Challenges.","grade":"bronze","kind":"Activities","count":50,"guide":"Use the game's credited challenge completions to find your remaining target. Recheck the total after batches and switch tasks when you have an easier unfinished challenge available."},
+    {"id":33,"name":"Hot Together","description":"Lose a 4 star Wanted Level with your partner and escape the heat.","grade":"bronze","kind":"Activities","guide":"In game, confirm your partner is with you when the wanted display reaches four stars. Keep the same attempt going until the wanted display clears, then verify the award."},
+    {"id":34,"name":"Retail Therapy","description":"Rob 3 shops back-to-back with your partner without losing your Wanted Level.","grade":"bronze","kind":"Activities","count":3,"guide":"Treat the three shops as a single in-game attempt with your partner. Watch the wanted indicator between stops and restart your tally if it clears before the third shop."},
+    {"id":35,"name":"Whip It Good","description":"Discover 100 vehicles.","grade":"bronze","kind":"Collectibles","count":100,"guide":"Fold vehicle discoveries into exploration and note which ones the game credits. During cleanup, prioritize unfamiliar vehicles and verify how the discovery counter responds."},
+    {"id":36,"name":"Gunslinger","description":"Take down 5 enemies in a single use of Combat Focus.","grade":"bronze","kind":"Activities","count":5,"guide":"Use an in-game encounter with five eligible enemies. Track all five takedowns inside one activation; begin a fresh attempt if Combat Focus ends early."},
+    {"id":37,"name":"Catch Me If You Can","description":"Make an unscheduled departure at VCIA.","grade":"bronze","kind":"Activities","guide":"Use VCIA as the location clue. Check the trophy after an in-game departure there; the wording leaves the method and eligible vehicle open."},
+    {"id":38,"name":"Challenging Tank","description":"Kinda hot in these Rhinos.","grade":"bronze","kind":"Activities","guide":"Keep this open for later verification. Rhinos are the clue in the list; use the trophy notification to confirm a trigger before treating a Rhino encounter as complete."},
+    {"id":39,"name":"Sneakthief","description":"Rob a jewelry store without being detected.","grade":"bronze","kind":"Activities","guide":"Treat detection as the failure condition for the in-game attempt. If the game registers detection, use a fresh attempt to verify the stealth award."},
+    {"id":40,"name":"Maximum Withdrawal","description":"Rob 5 Bank Vaults and escape.","grade":"silver","kind":"Activities","count":5,"guide":"Record each eligible in-game vault run after the escape. Compare your trophy progress after each run; the list leaves repeat eligibility unspecified."},
+    {"id":41,"name":"A Classic Blitz Play","description":"Rob an Armored Truck and escape.","grade":"bronze","kind":"Activities","guide":"Check for the award at the end of the in-game escape. Track the armored truck objective separately from bank vaults since the target type differs."},
+    {"id":42,"name":"The Goodtime State","description":"Explore all of Leonida.","grade":"bronze","kind":"Collectibles","count":52,"guide":"Keep a record of newly credited areas on your travels. Finish by checking gaps in your 52-area tally, rather than using mileage as a measure of coverage."},
+    {"id":43,"name":"Pest Control","description":"Rob an Illegal Operation belonging to each gang.","grade":"bronze","kind":"Activities","count":9,"guide":"Track these in-game operations by gang affiliation. For cleanup, look for a missing affiliation in your nine-gang tally before attempting another operation."},
+    {"id":44,"name":"In The Beginning…","description":"Enjoy a cocktail with a view on Ocean Beach.","grade":"bronze","kind":"Activities","guide":"Use Ocean Beach as the named search area. Look for the cocktail interaction there and verify the award afterward. The list leaves the venue and drink unspecified."},
+    {"id":45,"name":"Capital Offense","description":"Smash your way out of a vehicle showroom in classic style.","grade":"bronze","kind":"Activities","guide":"Start this in-game attempt from inside a vehicle showroom. Use the trophy notification to verify an exit, since the list leaves the dealership and vehicle unspecified."},
+    {"id":46,"name":"Let’s Go Bowling","description":"Follow-through at the Kolt & Associates' bowling alley.","grade":"bronze","kind":"Activities","guide":"Use Kolt & Associates as your destination clue and try the bowling interaction there. The list leaves the score and frame requirements open, so check for the award after play."},
+    {"id":47,"name":"Personal Best","description":"A partnership with mass appeal.","grade":"bronze","kind":"Activities","guide":"Keep this on your verification list during partner activities. The partnership is the only concrete clue given, so use the actual unlock to identify the trigger."},
+    {"id":48,"name":"Actions Speak Louder","description":"Choices made (for better or worse).","grade":"bronze","kind":"Activities","count":500,"guide":"Watch the 500-count target as you make choices in play. Check for increments after sessions and use the counter to identify which decisions the game credits."},
+    {"id":49,"name":"Bad Luck, I Guess","description":"Second time's the charm.","grade":"bronze","kind":"Activities","guide":"When the game offers a retry, check whether a successful second attempt awards this trophy. Treat that as a reading of the clue until an unlock confirms it."},
+    {"id":50,"name":"The Truth Is Out There","description":"What the hell just happened?","grade":"bronze","kind":"Activities","guide":"Keep this as an open verification item. The description names no action or place. If it triggers during play, note the event and confirm the award before closing it."},
+    {"id":51,"name":"Ten Pin","description":"Bowl 'em over with a melee drive-by.","grade":"bronze","kind":"Activities","guide":"Use the in-game melee drive-by action and check for the award after a knockdown. Track this separately from the named bowling alley trophy."},
+    {"id":52,"name":"Dime on the Dollar","description":"Earn $250,000 laundering Marked Bills through your contacts.","grade":"bronze","kind":"Activities","count":250000,"guide":"Use the in-game contacts tied to Marked Bills and track the proceeds they credit. Compare that running total to $250,000; your general cash balance tracks more than this objective."},
+    {"id":53,"name":"Treat Yo Self","description":"Spend $100,000 across all shops.","grade":"bronze","kind":"Activities","count":100000,"guide":"Fold this into normal in-game shop visits and check how spending accumulates toward $100,000. Treat property purchases as a separate checklist for Little Boxes."},
+    {"id":54,"name":"Little Boxes","description":"Purchase all garage properties.","grade":"bronze","kind":"Collectibles","count":8,"guide":"Keep a property checklist of the eight garages. Verify ownership after each purchase and use the list to identify your last outstanding garage."},
+    {"id":55,"name":"On the Spot","description":"Register 10 vehicles to the Scooter Bros app.","grade":"bronze","kind":"Activities","count":10,"guide":"Track vehicles after the Scooter Bros app accepts their registration. Use its credited list to work toward ten and keep discoveries on the separate vehicle trophy."}
+  ]
 }
